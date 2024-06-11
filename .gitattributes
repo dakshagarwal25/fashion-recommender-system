@@ -1,0 +1,2 @@
+C:/Users/Daksh filter=lfs diff=lfs merge=lfs -text
+Agarwal/PycharmProjects/fashion-recommendation-system/image_features_embedding.pkl filter=lfs diff=lfs merge=lfs -text
